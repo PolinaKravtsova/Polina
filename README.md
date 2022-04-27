@@ -1,4 +1,3 @@
-# Polina
 <!doctype html>
 <html>
 <head>
